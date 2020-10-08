@@ -12,6 +12,11 @@ Repo for project work one
 * Bottom 5 states with least number of cases
 * Correlation with per capita income
 
+## Assumption
+
+* We have included US data sets
+* We have included last 60 days of data
+
 ## Charts and Tables
 * Total Existing Cases
 * Total Existing Cases by Each State
