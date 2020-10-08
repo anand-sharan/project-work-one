@@ -1,6 +1,6 @@
 # Google API Key
-g_key = "AIzaSyBXCWBNf1KdsHEALAmm1iPA2uGTj0jNwA0"
+g_key = "YOUR KEY HERE"
 
 # Census API Key
-api_key = "c2d7b413412537d04488dfd132dbfbd6ca262ee0"
+api_key = "YOUR KEY HERE"
 
